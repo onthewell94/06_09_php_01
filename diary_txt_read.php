@@ -35,8 +35,8 @@ fclose($file);
 
 <body>
   <fieldset>
-    <legend>１日の振り返りシート作成（入力画面）</legend>
-    <a href="diary_txt_input.php">一覧画面</a>
+    <legend>１日の振り返りシート作成（一覧画面）</legend>
+    <a href="diary_txt_input.php">履歴</a>
     <table>
       <thead>
         <tr>

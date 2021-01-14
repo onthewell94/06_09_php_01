@@ -13,10 +13,10 @@
             <legend>１日の振り返りシート作成（入力画面）</legend>
             <a href="diary_txt_read.php">一覧画面</a>
             <div>
-                diary: <input type="text" name="diary">
+                日報: <input type="text" name="diary">
             </div>
             <div>
-                date: <input type="date" name="date">
+                日付: <input type="date" name="date">
             </div>
             <div>
                 <button>提出</button>
